@@ -18,7 +18,7 @@ We have been recognizing the efforts of the security research community for help
 * [Investigating and Reporting Bugs](#investigating-and-reporting-bugs)
 
 ### Products & Services in Scope
-At this time, the scope of this program is limited to security vulnerabilities found on Choreo, Asgardeo and the software products developed by WSO2.
+At this time, the scope of this program is limited to security vulnerabilities found on Choreo, WSO2 Identity Platform and the software products developed by WSO2.
 
 This includes the following:
 
@@ -27,7 +27,7 @@ This includes the following:
 * [WSO2 Enterprise Integrator](https://wso2.com/integration)
 * [Ballerina](https://ballerina.io/) (limited to the scope mentioned in [https://ballerina.io/security-policy/](https://ballerina.io/security-policy/))
 * [Choreo](https://wso2.com/choreo/)
-* [Asgardeo](https://wso2.com/asgardeo/)
+* [WSO2 Identity Platform](https://wso2.com/identity-platform/developer/)
 
 Out of the above-listed products, only the [latest released version](http://wso2.com/products/carbon/release-matrix/) of each product is included in the scope of this program. In addition to that, the release date of the product version should be within 3 years from the date of the report.
 
@@ -36,7 +36,7 @@ Out of the above-listed products, only the [latest released version](http://wso2
 
 
 ### Qualifying Vulnerabilities
-Any security issue that has a moderate or higher security impact on the confidentiality, integrity, or availability of Choreo, Asgardeo, or a WSO2 product would be included in the scope of the program. 
+Any security issue that has a moderate or higher security impact on the confidentiality, integrity, or availability of Choreo, WSO2 Identity Platform, or a WSO2 product would be included in the scope of the program. 
 
 Following are a few common issues that we typically consider for rewarding.
 
