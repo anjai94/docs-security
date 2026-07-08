@@ -34,7 +34,7 @@ security researcher community relationship.
 
 
 
-### Asgardeo
+### WSO2 Identity Platform
 
 |                                                                             |
 | :-------------------------------------------------------------------------- |
@@ -89,7 +89,7 @@ security researcher community relationship.
 | :-----------------------------------------------------------------------------|
 | [Abdelkarim Haji](https://www.linkedin.com/in/abdelkarim-haji-4aa84b313/)     |
 
-### Asgardeo
+### WSO2 Identity Platform
 
 |                                                                     |
 | :------------------------------------------------------------------ |
