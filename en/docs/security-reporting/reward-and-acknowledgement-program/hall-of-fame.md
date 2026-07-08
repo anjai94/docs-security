@@ -29,7 +29,7 @@ security researcher community relationship.
 | [Michał Majchrowicz, Marcin Wyczechowski, and Paweł Zdunek — members of the AFINE Team](https://afine.com/) |
 | **Omri Inbar**                                                                                              |
 | [Robert C. Raducioiu](https://it.linkedin.com/in/rbct)                                                      |
-|                                                                                                             |
+| San Gil from Security Office                                                                                |
 | [Suraj Theekshana and Ishan Nim (株式会社CyberCrew)](https://cyber.spool.co.jp/)                             |
 | [Thinh Dang](https://www.linkedin.com/in/thinh-dang-bb4b72170/)                                             |
 
