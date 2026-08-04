@@ -15,9 +15,10 @@ WSO2 maintains a reward and acknowledgement program to recognize security resear
 
 The program covers the following WSO2 products and services.
 
+* Agent Platform
 * API Platform
-* Identity Platform
 * Integration Platform
+* Identity Platform
 * Developer Platform
 
 Internal staging environments, demo sites, WSO2-operated websites (e.g. wso2.com), and any customer-owned deployment of WSO2 software are out of scope.
