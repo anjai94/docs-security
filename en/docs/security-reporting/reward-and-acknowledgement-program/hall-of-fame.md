@@ -27,7 +27,7 @@ For the in-scope products and services, qualifying criteria, and reward terms, s
 | **Nishant Lungare**                                                                                         |
 | **Omri Inbar**                                                                                              |
 | [Robert C. Raducioiu](https://it.linkedin.com/in/rbct)                                                      |
-| San Gil from Security Office                                                                                |
+| [San Gil from Security Office](https://securityoffice.io/)                                              |
 | [Suraj Theekshana and Ishan Nim (株式会社CyberCrew)](https://cyber.spool.co.jp/)                             |
 | [Thinh Dang](https://www.linkedin.com/in/thinh-dang-bb4b72170/)                                             |
 
